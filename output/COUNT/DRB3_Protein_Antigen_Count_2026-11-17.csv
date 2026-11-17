@@ -1,0 +1,19 @@
+Number of Antigens exluding UNA,3
+Number of residues used for FULL,13
+
+ANTIGEN,FULL,SEROTYPE,INCOMPLETE,InSilico
+DR5201,118,62,0,0
+DR5202,207,0,0,0
+DR5203,89,0,0,0
+UNA,9,0,0,0
+
+AssignedTotal,423,62,0,0
+CommonTotal,0,0,0,0
+IntermediateTotal,0,0,0,0
+WellDocumentedTotal,26,7,0,0
+RareTotal,397,55,0,0
+
+TOTAL EXPRESSED ALLELES,485
+Null alleles,33
+Q alleles,4
+TOTAL ALLELES,522

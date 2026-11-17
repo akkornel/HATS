@@ -19,7 +19,7 @@ sub VERSION {
 }
 
 sub IMGT_HLA_VERSION {
-	my $version = "3.64.0";
+	my $version = "3.66.0";
 	return $version;
 }
 
